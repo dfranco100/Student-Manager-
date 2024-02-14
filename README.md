@@ -1,2 +1,2 @@
-# Project_02
-A Spring boot REST application
+Student Manager 
+This is a simple Sprint Boot Java application designed to manage a student repositpry using a RESTful framework. Built on the principles of Representational State Transfer (REST), the application offers a clear and standardized way to interact with the student repository through HTTP methods such as GET, POST, PUT, and DELETE. By harnessing the capabilities of Spring Boot, the application ensures rapid development and deployment, with built-in features like auto-configuration and embedded servlet containers, simplifying the setup process and enhancing scalability.
